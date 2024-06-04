@@ -1,12 +1,13 @@
 {
   "Client": {
-    "ControllerUrl": "https://test@test.com",
+    "ControllerUrl": "https://test@testnew.com"
   },
   "Sync": {
     "Interval": 10
   },
   "Serilog": {
     "MinimumLevel": {
-      "Default": "Information",
-    },
+      "Default": "Information"
+    }
+  }
 }
